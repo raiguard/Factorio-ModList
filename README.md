@@ -25,6 +25,8 @@ Herein is a list of all of the Factorio mods I have created.
   - Was the basis for the Factorio Library's translation module, which took several months to perfect
 - [Quickbar Templates](https://github.com/raiguard/Factorio-SmallMods)
   - Import and export quickbar layouts as blueprints
+- [Cursor Enhancements](https://github.com/raiguard/Factorio-CursorEnhancements)
+  - Related items scrolling, cursor history, and convenient ghost transitions
 - [Color-coded Planners](https://github.com/raiguard/Factorio-SmallMods)
   - Simple color changes to vanilla planners
 - [Mouse-over Construction](https://github.com/raiguard/Factorio-MouseOverConstruction)
