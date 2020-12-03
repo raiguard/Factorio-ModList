@@ -14,7 +14,7 @@ Herein is a list of all of the Factorio mods I have created.
 - [Editor Extensions](https://github.com/raiguard/Factorio-EditorExtensions)
   - Creative sandbox mod useful for testing in-game setups
   - Designed for maximum performance and utilizes many in-game features
-- [Recipe Book](https://github.com/raiguard/Factorio-EditorExtensions)
+- [Recipe Book](https://github.com/raiguard/Factorio-RecipeBook)
   - In-game GUI for exploring recipes and material usages
   - Implements a memoized string formatter for captions, tooltips, and styles
 - [Rate Calculator](https://github.com/raiguard/Factorio-RateCalculator)
@@ -32,3 +32,5 @@ Herein is a list of all of the Factorio mods I have created.
 - [Mouse-over Construction](https://github.com/raiguard/Factorio-MouseOverConstruction)
   - Auto construction, upgrading, and mining on mouse-over
   - Eases gameplay for those with degenerative muscular diseases and makes the pre-robot game much more enjoyable
+- [Placement Guide](https://github.com/raiguard/Factorio-SmallMods)
+  - Easily place straight rows of entities with a margin of error
